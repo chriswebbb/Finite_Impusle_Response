@@ -1,0 +1,1 @@
+Info (10281): Verilog HDL Declaration information at fir.sv(22): object "sum" differs only in case from object "SUM" in the same scope File: H:/Year_Two/labs/D1/fir.sv Line: 22
