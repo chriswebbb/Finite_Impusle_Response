@@ -1,0 +1,1 @@
+disp(sprintf('%d,',round(fir1(15,0.5)*32768)))
